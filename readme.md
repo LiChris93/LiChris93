@@ -21,6 +21,7 @@ I don't play any Tencent or Netease games,:(
 目前正在和[`Klop233`](https://github.com/Klop233)开发一个我的世界服务器项目: <a href="https://github.com/StarCraftOfficial">`StarCraft`<a> <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=LiChris93&count_private=true&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiChris93&layout=compact&theme=tokyonight" />
+<img src="https://wakatime.com/share/@LiChris93/c1c37b8a-3360-4572-9b44-97e2b55b7026.svg" />
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LiChris93&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 <p align="center"> 
   Visit count<br>
