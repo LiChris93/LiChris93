@@ -6,7 +6,8 @@
 个人主页: [`lichris93.top`](https://lichris93.top)
 
 14岁，事初中生，`原神`、`我的世界`、`Phigros`、`Arcaea` 玩家，坐标上海 <br>
-会的: `Python`(淡坑) `Java` `PHP`(刚开始学)
+会的: `Python`(淡坑) `Java` `PHP`(刚开始学)<br>
+[![wakatime](https://wakatime.com/badge/user/09cb58b5-ccc0-41b8-a821-92fbfde0608f.svg)](https://wakatime.com/@09cb58b5-ccc0-41b8-a821-92fbfde0608f)
 
 **联系方式** <br>
 邮箱: `lihaouse@126.com` / `lihaouse@gmail.com`(应急用)<br>
