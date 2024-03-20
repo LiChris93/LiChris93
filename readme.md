@@ -22,7 +22,7 @@ I don't play any Tencent or Netease games,:(
 <img src="https://github-readme-stats.vercel.app/api?username=LiChris93&count_private=true&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiChris93&layout=compact&theme=tokyonight" />
 <img src="https://wakatime.com/share/@LiChris93/c1c37b8a-3360-4572-9b44-97e2b55b7026.svg" />
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LiChris93&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LiChris93&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 <p align="center"> 
   Visit count<br>
   <img src="https://profile-counter.glitch.me/LiChris93/count.svg" />
