@@ -15,7 +15,7 @@ QQ: `1564722665` <br><br>
 **游戏名** <br>
 MinecraftID: `LiChris93`<br>
 GenshinID: `LiChris93`<br>
-ArcaeaID: `LiChris93`<br>
+ArcaeaID: `LiChris93(360038480)`<br>
 I don't play any Tencent or Netease games,:(
 
 目前正在和[`Klop233`](https://github.com/Klop233)开发一个我的世界服务器项目: <a href="https://github.com/StarCraftOfficial">`StarCraft`<a> <br><br>
