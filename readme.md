@@ -5,7 +5,7 @@
 以下是我的个人简介，若有志同道合的人，可以跟我交个朋友啦。<br>
 个人主页: [`lichris93.top`](https://lichris93.top)
 
-15岁，事高中生，`原神`、`我的世界`、`Phigros`、`Arcaea` 玩家，坐标上海 <br>
+16岁，事高中生，~~`原神(已退游)`~~、`我的世界`、`Phigros`、`Arcaea` 玩家，坐标上海 <br>
 会的: `Python`(淡坑) `Java` `PHP`(刚开始学)<br>
 [![wakatime](https://wakatime.com/badge/user/09cb58b5-ccc0-41b8-a821-92fbfde0608f.svg)](https://wakatime.com/@09cb58b5-ccc0-41b8-a821-92fbfde0608f)
 
@@ -14,7 +14,7 @@
 QQ: `1564722665` <br><br>
 **游戏名** <br>
 MinecraftID: `LiChris93`<br>
-GenshinID: `LiChris93`<br>
+~~GenshinID: `LiChris93`<br>~~
 ArcaeaID: `LiChris93(360038480)`<br>
 I don't play any Tencent or Netease games,:(
 
