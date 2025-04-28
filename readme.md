@@ -1,6 +1,6 @@
 <!-- 别看markdown源码，依托答辩一样 -->
 
-### 你好，我是 LiChris93，一名高一学生 👋
+### 你好，我是 LiChris93，一名高二学生 👋
 
 以下是我的个人简介，若有志同道合的人，可以跟我交个朋友啦。<br>
 个人主页: [`lichris93.top`](https://lichris93.top)
@@ -18,7 +18,7 @@ MinecraftID: `LiChris93`<br>
 ArcaeaID: `LiChris93(360038480)`<br>
 I don't play any Tencent or Netease games,:(
 
-目前正在和[`Klop233`](https://github.com/Klop233)开发一个我的世界服务器项目: <a href="https://github.com/StarCraftOfficial">`StarCraft`<a> <br><br>
+~~目前正在和[`Klop233`](https://github.com/Klop233)开发一个我的世界服务器项目: <a href="https://github.com/StarCraftOfficial">`StarCraft`<a>~~(已废弃) <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=LiChris93&count_private=true&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiChris93&layout=compact&theme=tokyonight" />
 <img src="https://wakatime.com/share/@LiChris93/c1c37b8a-3360-4572-9b44-97e2b55b7026.svg" />
